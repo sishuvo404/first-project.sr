@@ -1,4 +1,5 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="Sports", Sport18
-http://172.21.22.3:8082/sports-18/index.m3u8
+http://172.21.22.3:8082/sports-18/index.m3u8?token=506c5c8dccd1610c1fb7b238823c8e2a071372ba-31aaf64c711dcf628e45f1df5df0a1c7-1700119738-1700108938
+
